@@ -34,7 +34,8 @@ pip install cryptography
 1. Clona este repositorio:
 
 ```bash
-
+git clone https://github.com/LuisPython93/cifrado-de-mensajes-con-python-aes.git
+cd cifrado-de-mensajes-con-python-aes
 ```
 2. Ejecuta el script principal:
 
